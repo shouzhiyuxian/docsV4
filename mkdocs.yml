@@ -150,12 +150,12 @@ nav:
         - 许可证: manual/admin/system_settings/licenses.md
     - API 文档: 
       - 概览: dev/rest_api.md  
-      - 用户 API: manual/admin/api/user.md
-      - 用户组 API: manual/admin/api/usergroup.md
-      - 资产节点 API: manual/admin/api/assetsnodes.md
-      - 资产账号 API: manual/admin/api/assetsaccounts.md
-      - 资产 API: manual/admin/api/assets.md
-      - 资产授权 API: manual/admin/api/assetauthorization.md
+      - 用户 : manual/admin/api/user.md
+      - 用户组 : manual/admin/api/usergroup.md
+      - 资产节点: manual/admin/api/assetsnodes.md
+      - 资产账号: manual/admin/api/assetsaccounts.md
+      - 资产: manual/admin/api/assets.md
+      - 资产授权: manual/admin/api/assetauthorization.md
   - 常见问题:
     - 产品 FAQ: faq/faq.md
     - 安全建议: faq/security.md
